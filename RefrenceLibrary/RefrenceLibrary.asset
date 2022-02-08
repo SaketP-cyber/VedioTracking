@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RefrenceLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5216773536932438452
+  m_GuidHigh: 5765394615260900746
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5037261533343447938
+      m_GuidHigh: 5238940579683410328
+    m_SerializedTextureGuid:
+      m_GuidLow: 6243183455778681387
+      m_GuidHigh: 8301290701107275035
+    m_Size: {x: 0.16, y: 0.089999996}
+    m_SpecifySize: 1
+    m_Name: IMU Position Estimator
+    m_Texture: {fileID: 2800000, guid: 7548b22b3e4656a41ba5c018e91b3473, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5745229590921697553
+      m_GuidHigh: 2487224129461402047
+    m_SerializedTextureGuid:
+      m_GuidLow: 9724487423211451473
+      m_GuidHigh: 4092102402850349241
+    m_Size: {x: 0.16, y: 0.07968545}
+    m_SpecifySize: 1
+    m_Name: Lady
+    m_Texture: {fileID: 2800000, guid: f345b45151c986f4b9e06a5a7411ca38, type: 3}
